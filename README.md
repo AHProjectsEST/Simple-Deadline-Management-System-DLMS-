@@ -1,4 +1,4 @@
-
+(This is a course project for Introduction to programming course) 
 # **DLMS — Deadline Management System**
 
 DLMS is a lightweight and local **Deadline Management System** designed to help you track tasks, due dates, and upcoming deadlines without relying on cloud services or heavy frameworks.  
